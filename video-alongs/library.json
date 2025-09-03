@@ -2,54 +2,54 @@
     "name": "Coolu Libraru",
     "books": [
         {
-            "title": "The Hitchhiker's Guide to the Galaxy",
-            "author": "Douglas Adams",
-            "year": 1979
+            "title": "The Grand Illusion",
+            "author": "Elara Vance",
+            "year": 2018
         },
         {
-            "title": "Pride and Prejudice",
-            "author": "Jane Austen",
-            "year": 1813
+            "title": "Whispers of the Forgotten",
+            "author": "Kaelen Thorne",
+            "year": 2005
         },
         {
-            "title": "1984",
-            "author": "George Orwell",
-            "year": 1949
+            "title": "Chronicles of the Stardust",
+            "author": "Seraphina Moon",
+            "year": 2022
         },
         {
-            "title": "To Kill a Mockingbird",
-            "author": "Harper Lee",
-            "year": 1960
+            "title": "The Silent City",
+            "author": "Marius Blackwood",
+            "year": 1999
         },
         {
-            "title": "Dune",
-            "author": "Frank Herbert",
-            "year": 1965
+            "title": "Echoes in the Deep",
+            "author": "Lyra Sterling",
+            "year": 2011
         },
         {
-            "title": "The Great Gatsby",
-            "author": "F. Scott Fitzgerald",
-            "year": 1925
+            "title": "The Alchemist's Secret",
+            "author": "Arthur Finch",
+            "year": 1987
         },
         {
-            "title": "Moby Dick",
-            "author": "Herman Melville",
-            "year": 1851
+            "title": "Gardens of Tomorrow",
+            "author": "Willow Green",
+            "year": 2020
         },
         {
-            "title": "War and Peace",
-            "author": "Leo Tolstoy",
-            "year": 1869
+            "title": "Beneath the Crimson Sky",
+            "author": "Rowan Ashworth",
+            "year": 2015
         },
         {
-            "title": "The Lord of the Rings",
-            "author": "J.R.R. Tolkien",
-            "year": 1954
+            "title": "The Clockwork Heart",
+            "author": "Genevieve Dubois",
+            "year": 2008
         },
         {
-            "title": "Brave New World",
-            "author": "Aldous Huxley",
-            "year": 1932
+            "title": "Path of the Wanderer",
+            "author": "Caleb Stone",
+            "year": 1993
         }
     ]
 }
