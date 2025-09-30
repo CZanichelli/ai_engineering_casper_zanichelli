@@ -10,7 +10,7 @@ def layout():
     st.markdown("# Iris Flower Prediction App")
     with st.form("iris_data"):
         sepal_length = st.number_input(
-            "Sepal Length (cm)", min_value=4.01, max_value=8.49, value=8.49
+            "Sepal Length (cm)", min_value=4.01, max_value=8.49, value=6.0
         )
 
         submitted = st.form_submit_button("Predict flower")
